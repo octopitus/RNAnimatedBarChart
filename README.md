@@ -1,8 +1,8 @@
+> Just a experiment with D3 in React Native.
+
 # RNAnimatedBarChart
 
-> Just an experience with D3 in React Native.
-
-Inspired by: [https://dribbble.com/shots/2231633-Charts-Made-with-Principle](https://dribbble.com/shots/2231633-Charts-Made-with-Principle)
+Inspired by: [Charts Made with Principle](https://dribbble.com/shots/2231633-Charts-Made-with-Principle)
 
 ![img](http://i.imgur.com/INUbc2G.gif)
 
