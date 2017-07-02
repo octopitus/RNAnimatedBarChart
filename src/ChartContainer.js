@@ -120,6 +120,8 @@ class ChartContainer extends Component<Props, Props, any> {
           labels={['SALE', 'REVENUE', 'PROFIT']}
           onChange={this._selectSegmentedData}
           contentContainerStyle={styles.segmentedControl}
+          animateDuration={ANIMATE_DURATION}
+          tabWidth={width / 3}
         />
       </Animated.View>
     );

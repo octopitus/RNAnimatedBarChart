@@ -22,7 +22,14 @@ const styles = StyleSheet.create({
     fontSize: 16
   },
   selectedText: {
-    color: 'rgba(255, 255, 255, 0.75)'
+    color: 'rgba(255, 255, 255, 0.5)'
+  },
+  border: {
+    height: 3,
+    backgroundColor: 'rgba(255, 255, 255, 0.5)',
+    position: 'absolute',
+    bottom: 0,
+    left: 0
   }
 })
 
